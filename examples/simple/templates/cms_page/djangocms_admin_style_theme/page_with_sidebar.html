@@ -1,0 +1,12 @@
+{% extends "cms_page/djangocms_admin_style_theme/base.html" %}
+
+{#% load placeholder_tags %#}
+{% load cms_tags menu_tags %}
+
+{% block main-content %}
+  {% placeholder page_content %}
+{% endblock %}
+
+{% block sidebar-content %}
+  {% placeholder page_sidebar %}
+{% endblock %}

@@ -1,0 +1,1420 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-27 23:37+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin.py:124 admin.py:193 admin.py:226 models.py:316 models.py:344
+#: contrib/apps/djangocms_integration/models.py:26
+#: contrib/apps/feincms_integration/widgets.py:30
+#: contrib/apps/mezzanine_integration/models.py:24
+#: contrib/plugins/form_handlers/db_store/models.py:47
+#: contrib/plugins/form_handlers/db_store/templates/db_store/view_saved_form_data_entries.html:39
+#: contrib/themes/foundation5/templates/foundation5/dashboard.html:29
+#: contrib/themes/foundation5/widgets/form_handlers/db_store_foundation5_widget/templates/db_store_foundation5_widget/view_saved_form_data_entries.html:40
+#: templates/fobi/generic/dashboard.html:30
+msgid "Form"
+msgstr ""
+
+#: admin.py:127
+msgid "Custom"
+msgstr ""
+
+#: admin.py:135 models.py:78 models.py:216 models.py:264
+#: contrib/plugins/form_handlers/db_store/models.py:49
+msgid "User"
+msgstr ""
+
+#: admin.py:139
+msgid "Additional"
+msgstr ""
+
+#: admin.py:147 admin.py:171 admin.py:199 admin.py:266
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/base_edit.html:84
+#: contrib/themes/simple/templates/simple/base_edit.html:76
+msgid "Fobi"
+msgstr ""
+
+#: admin.py:190 admin.py:223 models.py:121
+msgid "Plugin"
+msgstr ""
+
+#: admin.py:232 models.py:472
+msgid "Form handler entry"
+msgstr ""
+
+#: admin.py:336
+msgid "{0} plugins were changed successfully."
+msgstr ""
+
+#: admin.py:342
+msgid "POST required when changing in bulk!"
+msgstr ""
+
+#: base.py:108
+msgid "Build your forms"
+msgstr ""
+
+#: base.py:521 models.py:217 models.py:265 models.py:318
+#: contrib/plugins/form_elements/fields/boolean/forms.py:32
+#: contrib/plugins/form_elements/fields/date/forms.py:33
+#: contrib/plugins/form_elements/fields/date_drop_down/forms.py:42
+#: contrib/plugins/form_elements/fields/datetime/forms.py:33
+#: contrib/plugins/form_elements/fields/email/forms.py:37
+#: contrib/plugins/form_elements/fields/file/forms.py:34
+#: contrib/plugins/form_elements/fields/hidden/forms.py:33
+#: contrib/plugins/form_elements/fields/input/forms.py:61
+#: contrib/plugins/form_elements/fields/integer/forms.py:35
+#: contrib/plugins/form_elements/fields/password/forms.py:35
+#: contrib/plugins/form_elements/fields/radio/forms.py:33
+#: contrib/plugins/form_elements/fields/select/forms.py:33
+#: contrib/plugins/form_elements/fields/select_model_object/forms.py:36
+#: contrib/plugins/form_elements/fields/select_multiple/forms.py:33
+#: contrib/plugins/form_elements/fields/select_multiple_model_objects/forms.py:36
+#: contrib/plugins/form_elements/fields/text/forms.py:35
+#: contrib/plugins/form_elements/fields/textarea/forms.py:33
+#: contrib/plugins/form_elements/fields/url/forms.py:35
+#: contrib/plugins/form_elements/security/captcha/forms.py:35
+#: contrib/plugins/form_elements/security/honeypot/forms.py:35
+#: contrib/plugins/form_elements/security/recaptcha/forms.py:35
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/dashboard.html:43
+#: contrib/themes/simple/templates/simple/dashboard.html:42
+msgid "Name"
+msgstr ""
+
+#: base.py:526 contrib/plugins/form_elements/fields/boolean/forms.py:27
+#: contrib/plugins/form_elements/fields/date/forms.py:28
+#: contrib/plugins/form_elements/fields/date_drop_down/forms.py:37
+#: contrib/plugins/form_elements/fields/datetime/forms.py:28
+#: contrib/plugins/form_elements/fields/email/forms.py:32
+#: contrib/plugins/form_elements/fields/file/forms.py:29
+#: contrib/plugins/form_elements/fields/hidden/forms.py:28
+#: contrib/plugins/form_elements/fields/input/forms.py:56
+#: contrib/plugins/form_elements/fields/integer/forms.py:30
+#: contrib/plugins/form_elements/fields/password/forms.py:30
+#: contrib/plugins/form_elements/fields/radio/forms.py:28
+#: contrib/plugins/form_elements/fields/select/forms.py:28
+#: contrib/plugins/form_elements/fields/select_model_object/forms.py:31
+#: contrib/plugins/form_elements/fields/select_multiple/forms.py:28
+#: contrib/plugins/form_elements/fields/select_multiple_model_objects/forms.py:31
+#: contrib/plugins/form_elements/fields/text/forms.py:30
+#: contrib/plugins/form_elements/fields/textarea/forms.py:28
+#: contrib/plugins/form_elements/fields/url/forms.py:30
+#: contrib/plugins/form_elements/security/captcha/forms.py:30
+#: contrib/plugins/form_elements/security/honeypot/forms.py:30
+#: contrib/plugins/form_elements/security/recaptcha/forms.py:30
+msgid "Label"
+msgstr ""
+
+#: base.py:531 contrib/plugins/form_elements/fields/boolean/forms.py:37
+#: contrib/plugins/form_elements/fields/date/forms.py:38
+#: contrib/plugins/form_elements/fields/date_drop_down/forms.py:47
+#: contrib/plugins/form_elements/fields/datetime/forms.py:38
+#: contrib/plugins/form_elements/fields/email/forms.py:42
+#: contrib/plugins/form_elements/fields/file/forms.py:39
+#: contrib/plugins/form_elements/fields/input/forms.py:66
+#: contrib/plugins/form_elements/fields/integer/forms.py:40
+#: contrib/plugins/form_elements/fields/password/forms.py:40
+#: contrib/plugins/form_elements/fields/radio/forms.py:59
+#: contrib/plugins/form_elements/fields/select/forms.py:59
+#: contrib/plugins/form_elements/fields/select_model_object/forms.py:47
+#: contrib/plugins/form_elements/fields/select_multiple/forms.py:59
+#: contrib/plugins/form_elements/fields/select_multiple_model_objects/forms.py:47
+#: contrib/plugins/form_elements/fields/text/forms.py:40
+#: contrib/plugins/form_elements/fields/textarea/forms.py:38
+#: contrib/plugins/form_elements/fields/url/forms.py:40
+#: contrib/plugins/form_elements/security/captcha/forms.py:40
+#: contrib/plugins/form_elements/security/recaptcha/forms.py:40
+msgid "Help text"
+msgstr ""
+
+#: base.py:536 contrib/plugins/form_elements/fields/boolean/forms.py:47
+#: contrib/plugins/form_elements/fields/date/forms.py:53
+#: contrib/plugins/form_elements/fields/date_drop_down/forms.py:72
+#: contrib/plugins/form_elements/fields/datetime/forms.py:53
+#: contrib/plugins/form_elements/fields/email/forms.py:58
+#: contrib/plugins/form_elements/fields/file/forms.py:55
+#: contrib/plugins/form_elements/fields/hidden/forms.py:49
+#: contrib/plugins/form_elements/fields/input/forms.py:82
+#: contrib/plugins/form_elements/fields/integer/forms.py:60
+#: contrib/plugins/form_elements/fields/password/forms.py:56
+#: contrib/plugins/form_elements/fields/radio/forms.py:69
+#: contrib/plugins/form_elements/fields/select/forms.py:69
+#: contrib/plugins/form_elements/fields/select_model_object/forms.py:57
+#: contrib/plugins/form_elements/fields/select_multiple/forms.py:69
+#: contrib/plugins/form_elements/fields/select_multiple_model_objects/forms.py:57
+#: contrib/plugins/form_elements/fields/text/forms.py:56
+#: contrib/plugins/form_elements/fields/textarea/forms.py:48
+#: contrib/plugins/form_elements/fields/url/forms.py:56
+#: contrib/plugins/form_elements/security/captcha/forms.py:56
+#: contrib/plugins/form_elements/security/honeypot/forms.py:56
+#: contrib/plugins/form_elements/security/recaptcha/forms.py:56
+msgid "Required"
+msgstr ""
+
+#: base.py:558
+msgid "Duplicate field name!"
+msgstr ""
+
+#: base.py:563
+msgid "Duplicate label name!"
+msgstr ""
+
+#: base.py:642
+msgid "General"
+msgstr ""
+
+#: base.py:2134
+msgid "Theme `{0}` does not exist!"
+msgstr ""
+
+#: constants.py:18
+msgid "Append"
+msgstr ""
+
+#: constants.py:19
+msgid "Replace"
+msgstr ""
+
+#: forms.py:108
+msgid "Selected plugins"
+msgstr ""
+
+#: forms.py:113
+msgid "Users action"
+msgstr ""
+
+#: forms.py:115 forms.py:122
+msgid "If set to ``replace``, the groups are replaced; otherwise - appended."
+msgstr ""
+
+#: forms.py:120
+msgid "Groups action"
+msgstr ""
+
+#: models.py:80
+msgid "Group"
+msgstr ""
+
+#: models.py:113 models.py:414
+msgid "UID"
+msgstr ""
+
+#: models.py:132
+msgid "Groups"
+msgstr ""
+
+#: models.py:143
+msgid "Users"
+msgstr ""
+
+#: models.py:160 models.py:191
+msgid "Plugin UID"
+msgstr ""
+
+#: models.py:167
+msgid "Form element plugin"
+msgstr ""
+
+#: models.py:168
+msgid "Form element plugins"
+msgstr ""
+
+#: models.py:198
+msgid "Form handler plugin"
+msgstr ""
+
+#: models.py:199
+msgid "Form handler plugins"
+msgstr ""
+
+#: models.py:218 models.py:267
+msgid "Slug"
+msgstr ""
+
+#: models.py:221
+msgid "Is public?"
+msgstr ""
+
+#: models.py:222
+msgid "Makes your form wizard visible to the public."
+msgstr ""
+
+#: models.py:225
+msgid "Is cloneable?"
+msgstr ""
+
+#: models.py:226
+msgid "Makes your form wizard cloneable by other users."
+msgstr ""
+
+#: models.py:230
+msgid "Form wizard entry"
+msgstr ""
+
+#: models.py:231
+msgid "Form wizard entries"
+msgstr ""
+
+#: models.py:262
+msgid "Form wizard"
+msgstr ""
+
+#: models.py:270
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/dashboard.html:49
+#: contrib/themes/simple/templates/simple/dashboard.html:48
+msgid "Public?"
+msgstr ""
+
+#: models.py:271
+msgid "Makes your form visible to the public."
+msgstr ""
+
+#: models.py:274
+msgid "Cloneable?"
+msgstr ""
+
+#: models.py:275
+msgid "Makes your form cloneable by other users."
+msgstr ""
+
+#: models.py:278 models.py:438
+msgid "Position"
+msgstr ""
+
+#: models.py:281
+msgid "Success page title"
+msgstr ""
+
+#: models.py:282
+msgid "Custom message title to display after valid form is submitted"
+msgstr ""
+
+#: models.py:286
+msgid "Success page body"
+msgstr ""
+
+#: models.py:287
+msgid "Custom message text to display after valid form is submitted"
+msgstr ""
+
+#: models.py:291
+msgid "Action"
+msgstr ""
+
+#: models.py:292
+msgid "Custom form action"
+msgstr ""
+
+#: models.py:296
+msgid "Form entry"
+msgstr ""
+
+#: models.py:297
+msgid "Form entries"
+msgstr ""
+
+#: models.py:320
+msgid "Is repeatable?"
+msgstr ""
+
+#: models.py:321
+msgid "Makes your form fieldset repeatable."
+msgstr ""
+
+#: models.py:325
+msgid "Form fieldset entry"
+msgstr ""
+
+#: models.py:326
+msgid "Form fieldset entries"
+msgstr ""
+
+#: models.py:345 contrib/plugins/form_handlers/db_store/models.py:53
+msgid "Plugin data"
+msgstr ""
+
+#: models.py:433 models.py:467
+msgid "Plugin name"
+msgstr ""
+
+#: models.py:436
+msgid "Form fieldset"
+msgstr ""
+
+#: models.py:442
+msgid "Form element entry"
+msgstr ""
+
+#: models.py:443
+msgid "Form element entries"
+msgstr ""
+
+#: models.py:473
+msgid "Form handler entries"
+msgstr ""
+
+#: utils.py:329
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/dashboard.html:78
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:125
+#: contrib/themes/foundation5/templates/foundation5/dashboard.html:43
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:117
+#: contrib/themes/simple/templates/simple/dashboard.html:77
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:124
+#: templates/fobi/generic/dashboard.html:46
+#: templates/fobi/generic/edit_form_entry.html:8
+#: templates/fobi/generic/edit_form_entry_ajax.html:119
+#: templates/fobi/generic/view_form_entry.html:8
+msgid "Edit"
+msgstr ""
+
+#: utils.py:334
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/dashboard.html:83
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:127
+#: contrib/themes/foundation5/templates/foundation5/dashboard.html:44
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:123
+#: contrib/themes/simple/templates/simple/dashboard.html:82
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:126
+#: templates/fobi/generic/dashboard.html:51
+#: templates/fobi/generic/edit_form_entry_ajax.html:121
+msgid "Delete"
+msgstr ""
+
+#: views.py:75
+msgid "{0} not found."
+msgstr ""
+
+#: views.py:165
+msgid "Form {0} was created successfully."
+msgstr ""
+
+#: views.py:173 views.py:280
+msgid "Errors occurred while saving the form: {0}."
+msgstr ""
+
+#: views.py:224 views.py:365 views.py:603 views.py:823 views.py:934
+#: views.py:976
+msgid "Form entry not found."
+msgstr ""
+
+#: views.py:246
+msgid "Elements ordering edited successfully."
+msgstr ""
+
+#: views.py:254
+msgid "Errors occurred while trying to change the elements ordering!"
+msgstr ""
+
+#: views.py:272
+msgid "Form {0} was edited successfully."
+msgstr ""
+
+#: views.py:437
+msgid "The form element plugin \"{0}\" was added successfully."
+msgstr ""
+
+#: views.py:485
+msgid "Form element entry not found."
+msgstr ""
+
+#: views.py:497
+msgid "The form element plugin \"{0}\" is not configurable!"
+msgstr ""
+
+#: views.py:529
+msgid "The form element plugin \"{0}\" was edited successfully."
+msgstr ""
+
+#: views.py:579
+msgid "The form element plugin \"{0}\" was deleted successfully."
+msgstr ""
+
+#: views.py:610
+msgid "Plugin does not exist or you are not allowed to  use this plugin!"
+msgstr ""
+
+#: views.py:655
+msgid "The form handler plugin \"{0}\" was added successfully."
+msgstr ""
+
+#: views.py:708
+msgid "Form handler entry not found."
+msgstr ""
+
+#: views.py:721
+msgid "The form handler plugin \"{0}\" is not configurable!"
+msgstr ""
+
+#: views.py:744
+msgid "The form handler plugin \"{0}\" was edited successfully."
+msgstr ""
+
+#: views.py:793
+msgid "The form handler plugin \"{0}\" was deleted successfully."
+msgstr ""
+
+#: views.py:876 integration/processors.py:156
+msgid "Form {0} was submitted successfully."
+msgstr ""
+
+#: views.py:982
+msgid "The form \"{0}\" was deleted successfully."
+msgstr ""
+
+#: widgets.py:22
+msgid "Yes"
+msgstr ""
+
+#: widgets.py:23
+msgid "No"
+msgstr ""
+
+#: contrib/apps/djangocms_integration/cms_plugins.py:27
+#: contrib/apps/feincms_integration/widgets.py:79
+#: contrib/apps/mezzanine_integration/models.py:70
+#: contrib/apps/mezzanine_integration/models.py:74
+msgid "Fobi form"
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:29
+#: contrib/apps/feincms_integration/widgets.py:33
+#: contrib/apps/mezzanine_integration/models.py:27
+msgid "Form template name"
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:31
+#: contrib/apps/feincms_integration/widgets.py:35
+#: contrib/apps/mezzanine_integration/models.py:29
+msgid "Template to render the form with."
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:35
+#: contrib/apps/feincms_integration/widgets.py:39
+#: contrib/apps/mezzanine_integration/models.py:33
+msgid "Hide form title"
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:36
+#: contrib/apps/feincms_integration/widgets.py:40
+#: contrib/apps/mezzanine_integration/models.py:34
+msgid "If checked, no form title is shown."
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:40
+#: contrib/apps/feincms_integration/widgets.py:44
+#: contrib/apps/mezzanine_integration/models.py:38
+msgid "Form title"
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:41
+#: contrib/apps/feincms_integration/widgets.py:45
+#: contrib/apps/mezzanine_integration/models.py:39
+msgid "Overrides the default form title."
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:45
+#: contrib/apps/feincms_integration/widgets.py:49
+#: contrib/apps/mezzanine_integration/models.py:43
+msgid "Submit button text"
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:46
+#: contrib/apps/feincms_integration/widgets.py:50
+#: contrib/apps/mezzanine_integration/models.py:44
+msgid "Overrides the default form submit button text."
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:50
+#: contrib/apps/feincms_integration/widgets.py:54
+#: contrib/apps/mezzanine_integration/models.py:48
+msgid "Success page template name"
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:52
+#: contrib/apps/feincms_integration/widgets.py:56
+#: contrib/apps/mezzanine_integration/models.py:50
+msgid "Template to render the success page with."
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:56
+#: contrib/apps/feincms_integration/widgets.py:60
+#: contrib/apps/mezzanine_integration/models.py:54
+msgid "Hide success page title"
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:57
+#: contrib/apps/feincms_integration/widgets.py:61
+#: contrib/apps/mezzanine_integration/models.py:55
+msgid "If checked, no success page title is shown."
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:61
+#: contrib/apps/feincms_integration/widgets.py:65
+#: contrib/apps/mezzanine_integration/models.py:59
+msgid "Succes page title"
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:62
+#: contrib/apps/feincms_integration/widgets.py:66
+#: contrib/apps/mezzanine_integration/models.py:60
+msgid "Overrides the default success page title."
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:66
+#: contrib/apps/feincms_integration/widgets.py:70
+#: contrib/apps/mezzanine_integration/models.py:64
+msgid "Succes page text"
+msgstr ""
+
+#: contrib/apps/djangocms_integration/models.py:67
+#: contrib/apps/feincms_integration/widgets.py:71
+#: contrib/apps/mezzanine_integration/models.py:65
+msgid "Overrides the default success page text."
+msgstr ""
+
+#: contrib/apps/djangocms_integration/templates/djangocms_integration/login_required.html:3
+#: templates/fobi/integration/login_required.html:3
+#, python-format
+msgid ""
+"\n"
+"You have to be authorised in order to see the content.\n"
+"<a href=\"%(login_url)s\">Log in</a> here.\n"
+msgstr ""
+
+#: contrib/apps/mezzanine_integration/models.py:71
+msgid "Fobi forms"
+msgstr ""
+
+#: contrib/apps/mezzanine_integration/templates/mezzanine_integration/admin/change_form.html:8
+#: contrib/plugins/form_handlers/db_store/fobi_form_handlers.py:74
+#: contrib/plugins/form_handlers/db_store/templates/db_store/plugin_data_repr.html:4
+#: contrib/themes/foundation5/widgets/form_handlers/db_store_foundation5_widget/templates/db_store_foundation5_widget/plugin_data_repr.html:4
+msgid "View entries"
+msgstr ""
+
+#: contrib/apps/mezzanine_integration/templates/mezzanine_integration/admin/change_form.html:9
+msgid "History"
+msgstr ""
+
+#: contrib/apps/mezzanine_integration/templates/mezzanine_integration/admin/change_form.html:10
+msgid "View on site"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_image/defaults.py:24
+msgid "Smart crop"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_image/defaults.py:25
+msgid "Crop center"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_image/defaults.py:26
+msgid "Crop scale"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_image/defaults.py:27
+msgid "Fit width"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_image/defaults.py:28
+msgid "Fit height"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_image/fobi_form_elements.py:32
+msgid "Content image"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_image/fobi_form_elements.py:33
+#: contrib/plugins/form_elements/content/content_text/fobi_form_elements.py:23
+#: contrib/plugins/form_elements/content/content_video/fobi_form_elements.py:25
+msgid "Content"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_image/forms.py:31
+msgid "Image"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_image/forms.py:37
+msgid "Alt text"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_image/forms.py:44
+msgid "Fit method"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_image/forms.py:53
+#: contrib/plugins/form_elements/content/content_video/forms.py:38
+msgid "Size"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_image/templates/content_image/render.html:11
+msgid "No image provided!"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_text/fobi_form_elements.py:22
+msgid "Content text"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_text/forms.py:24
+#: contrib/plugins/form_elements/fields/text/fobi_form_elements.py:22
+msgid "Text"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_video/fobi_form_elements.py:24
+msgid "Content video"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_video/forms.py:28
+msgid "Title"
+msgstr ""
+
+#: contrib/plugins/form_elements/content/content_video/forms.py:33
+#: contrib/plugins/form_elements/fields/url/fobi_form_elements.py:29
+msgid "URL"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/boolean/fobi_form_elements.py:20
+msgid "Boolean"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/boolean/fobi_form_elements.py:21
+#: contrib/plugins/form_elements/fields/date/fobi_form_elements.py:23
+#: contrib/plugins/form_elements/fields/date_drop_down/fobi_form_elements.py:25
+#: contrib/plugins/form_elements/fields/datetime/fobi_form_elements.py:24
+#: contrib/plugins/form_elements/fields/email/fobi_form_elements.py:25
+#: contrib/plugins/form_elements/fields/file/fobi_form_elements.py:24
+#: contrib/plugins/form_elements/fields/hidden/fobi_form_elements.py:25
+#: contrib/plugins/form_elements/fields/input/fobi_form_elements.py:23
+#: contrib/plugins/form_elements/fields/integer/fobi_form_elements.py:30
+#: contrib/plugins/form_elements/fields/password/fobi_form_elements.py:24
+#: contrib/plugins/form_elements/fields/radio/fobi_form_elements.py:24
+#: contrib/plugins/form_elements/fields/select/fobi_form_elements.py:24
+#: contrib/plugins/form_elements/fields/select_model_object/fobi_form_elements.py:26
+#: contrib/plugins/form_elements/fields/select_multiple/fobi_form_elements.py:26
+#: contrib/plugins/form_elements/fields/select_multiple_model_objects/fobi_form_elements.py:30
+#: contrib/plugins/form_elements/fields/text/fobi_form_elements.py:23
+#: contrib/plugins/form_elements/fields/textarea/fobi_form_elements.py:23
+#: contrib/plugins/form_elements/fields/url/fobi_form_elements.py:30
+msgid "Fields"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/boolean/forms.py:42
+#: contrib/plugins/form_elements/fields/date/forms.py:43
+#: contrib/plugins/form_elements/fields/date_drop_down/forms.py:62
+#: contrib/plugins/form_elements/fields/datetime/forms.py:43
+#: contrib/plugins/form_elements/fields/email/forms.py:47
+#: contrib/plugins/form_elements/fields/file/forms.py:44
+#: contrib/plugins/form_elements/fields/hidden/forms.py:38
+#: contrib/plugins/form_elements/fields/input/forms.py:71
+#: contrib/plugins/form_elements/fields/integer/forms.py:45
+#: contrib/plugins/form_elements/fields/password/forms.py:45
+#: contrib/plugins/form_elements/fields/radio/forms.py:64
+#: contrib/plugins/form_elements/fields/select/forms.py:64
+#: contrib/plugins/form_elements/fields/select_model_object/forms.py:52
+#: contrib/plugins/form_elements/fields/select_multiple/forms.py:64
+#: contrib/plugins/form_elements/fields/select_multiple_model_objects/forms.py:52
+#: contrib/plugins/form_elements/fields/text/forms.py:45
+#: contrib/plugins/form_elements/fields/textarea/forms.py:43
+#: contrib/plugins/form_elements/fields/url/forms.py:45
+#: contrib/plugins/form_elements/security/honeypot/forms.py:45
+msgid "Initial"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/date/fobi_form_elements.py:22
+#: contrib/plugins/form_handlers/db_store/templates/db_store/view_saved_form_data_entries.html:41
+#: contrib/themes/foundation5/widgets/form_handlers/db_store_foundation5_widget/templates/db_store_foundation5_widget/view_saved_form_data_entries.html:42
+msgid "Date"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/date/forms.py:48
+#: contrib/plugins/form_elements/fields/date_drop_down/forms.py:67
+msgid "Input  formats"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/date_drop_down/fobi_form_elements.py:24
+msgid "Date drop down"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/date_drop_down/forms.py:52
+msgid "Minimum year value"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/date_drop_down/forms.py:57
+msgid "Maximum year value"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/datetime/fobi_form_elements.py:23
+msgid "DateTime"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/datetime/forms.py:48
+msgid "Input formats"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/email/fobi_form_elements.py:24
+msgid "Email"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/email/forms.py:52
+#: contrib/plugins/form_elements/fields/file/forms.py:49
+#: contrib/plugins/form_elements/fields/hidden/forms.py:43
+#: contrib/plugins/form_elements/fields/input/forms.py:76
+#: contrib/plugins/form_elements/fields/password/forms.py:50
+#: contrib/plugins/form_elements/fields/text/forms.py:50
+#: contrib/plugins/form_elements/fields/url/forms.py:50
+#: contrib/plugins/form_elements/security/honeypot/forms.py:50
+msgid "Max length"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/email/forms.py:63
+#: contrib/plugins/form_elements/fields/input/forms.py:87
+#: contrib/plugins/form_elements/fields/integer/forms.py:65
+#: contrib/plugins/form_elements/fields/password/forms.py:61
+#: contrib/plugins/form_elements/fields/text/forms.py:61
+#: contrib/plugins/form_elements/fields/textarea/forms.py:53
+#: contrib/plugins/form_elements/fields/url/forms.py:61
+msgid "Placeholder"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/file/fobi_form_elements.py:23
+msgid "File"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/hidden/fobi_form_elements.py:24
+msgid "Hidden"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/input/fobi_form_elements.py:22
+msgid "Input"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/input/forms.py:94
+msgid "Auto-complete (HTML5 autocomplete)"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/input/forms.py:99
+msgid "Auto-focus (HTML5 autofocus)"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/input/forms.py:104
+msgid "Disabled"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/input/forms.py:114
+msgid "List (HTML5 list)"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/input/forms.py:119
+msgid "Max (HTML5 max)"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/input/forms.py:124
+msgid "Min (HTML5 min)"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/input/forms.py:129
+msgid "Multiple (HTML5 multiple)"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/input/forms.py:134
+msgid "Pattern (HTML5 pattern)"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/input/forms.py:139
+msgid "Read-only (HTML readonly)"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/input/forms.py:144
+msgid "Step (HTML5 step)"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/input/forms.py:149
+msgid "Type (HTML type)"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/integer/fobi_form_elements.py:29
+msgid "Integer"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/integer/forms.py:50
+msgid "Min value"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/integer/forms.py:55
+msgid "Max value"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/password/fobi_form_elements.py:23
+msgid "Password"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/radio/fobi_form_elements.py:23
+msgid "Radio"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/radio/forms.py:38
+#: contrib/plugins/form_elements/fields/select/forms.py:38
+#: contrib/plugins/form_elements/fields/select_multiple/forms.py:38
+msgid "Choices"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/radio/forms.py:40
+#: contrib/plugins/form_elements/fields/select/forms.py:40
+#: contrib/plugins/form_elements/fields/select_multiple/forms.py:40
+msgid ""
+"Enter single values/pairs per line. Example:<code><br/>&nbsp;&nbsp;&nbsp;"
+"&nbsp;1<br/>&nbsp;&nbsp;&nbsp;&nbsp;2<br/>&nbsp;&nbsp;&nbsp;&nbsp;alpha, "
+"Alpha<br/>&nbsp;&nbsp;&nbsp;&nbsp;beta, Beta<br/>&nbsp;&nbsp;&nbsp;&nbsp;"
+"omega</code><br/>It finally transforms into the following HTML code:"
+"<code><br/>&nbsp;&nbsp;&nbsp;&nbsp;&lt;select id=\"id_NAME_OF_THE_ELEMENT\" "
+"name=\"NAME_OF_THE_ELEMENT\"&gt;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+"&nbsp;&nbsp;&lt;option value=\"1\"&gt;1&lt;/option&gt;<br/>&nbsp;&nbsp;&nbsp;"
+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;option value=\"2\"&gt;2&lt;/option&gt;<br/"
+">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;option value=\"alpha"
+"\"&gt;Alpha&lt;/option&gt;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+"&nbsp;&lt;option value=\"beta\"&gt;Beta&lt;/option&gt;<br/>&nbsp;&nbsp;&nbsp;"
+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;option value=\"omega\"&gt;omega&lt;/"
+"option&gt;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&lt;/select&gt;</code>"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/select/fobi_form_elements.py:23
+msgid "Select"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/select_model_object/fobi_form_elements.py:25
+msgid "Select model object"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/select_model_object/forms.py:41
+#: contrib/plugins/form_elements/fields/select_multiple_model_objects/forms.py:41
+msgid "Model"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/select_multiple/fobi_form_elements.py:25
+msgid "Select multiple"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/select_multiple_model_objects/fobi_form_elements.py:29
+msgid "Select multiple model objects"
+msgstr ""
+
+#: contrib/plugins/form_elements/fields/textarea/fobi_form_elements.py:22
+msgid "Textarea"
+msgstr ""
+
+#: contrib/plugins/form_elements/security/captcha/fobi_form_elements.py:75
+msgid "Captcha"
+msgstr ""
+
+#: contrib/plugins/form_elements/security/captcha/fobi_form_elements.py:76
+#: contrib/plugins/form_elements/security/honeypot/fobi_form_elements.py:28
+#: contrib/plugins/form_elements/security/recaptcha/fobi_form_elements.py:78
+msgid "Security"
+msgstr ""
+
+#: contrib/plugins/form_elements/security/honeypot/fields.py:19
+msgid "Field value was tampered with."
+msgstr ""
+
+#: contrib/plugins/form_elements/security/honeypot/fobi_form_elements.py:27
+msgid "Honeypot"
+msgstr ""
+
+#: contrib/plugins/form_elements/security/recaptcha/fobi_form_elements.py:77
+msgid "ReCaptcha"
+msgstr ""
+
+#: contrib/plugins/form_elements/test/dummy/fobi_form_elements.py:21
+msgid "Dummy"
+msgstr ""
+
+#: contrib/plugins/form_elements/test/dummy/fobi_form_elements.py:22
+msgid "Testing"
+msgstr ""
+
+#: contrib/plugins/form_elements/test/dummy/fobi_form_elements.py:35
+msgid "Dummy content"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/admin.py:27
+#: contrib/plugins/form_handlers/db_store/templates/db_store/view_saved_form_data_entries.html:40
+#: contrib/themes/foundation5/widgets/form_handlers/db_store_foundation5_widget/templates/db_store_foundation5_widget/view_saved_form_data_entries.html:41
+msgid "Data"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/admin.py:30
+msgid "Raw"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/admin.py:39
+#: contrib/plugins/form_handlers/db_store/models.py:58
+msgid "Saved form data entry"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/admin.py:62
+msgid "Export data to CSV/XLS"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/fobi_form_handlers.py:24
+msgid "DB store"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/fobi_form_handlers.py:80
+msgid "Export entries"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/models.py:51
+msgid "Form data headers"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/models.py:54
+msgid "Date created"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/models.py:59
+msgid "Saved form data entries"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/models.py:81
+msgid "Saved data"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/templates/db_store/view_saved_form_data_entries.html:5
+#: contrib/plugins/form_handlers/db_store/templates/db_store/view_saved_form_data_entries.html:23
+#: contrib/themes/foundation5/widgets/form_handlers/db_store_foundation5_widget/templates/db_store_foundation5_widget/view_saved_form_data_entries.html:5
+#: contrib/themes/foundation5/widgets/form_handlers/db_store_foundation5_widget/templates/db_store_foundation5_widget/view_saved_form_data_entries.html:24
+msgid "View form data"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/templates/db_store/view_saved_form_data_entries.html:30
+#: contrib/themes/foundation5/widgets/form_handlers/db_store_foundation5_widget/templates/db_store_foundation5_widget/view_saved_form_data_entries.html:31
+msgid "Saved form data"
+msgstr ""
+
+#: contrib/plugins/form_handlers/db_store/templates/db_store/view_saved_form_data_entries.html:49
+#: contrib/themes/foundation5/widgets/form_handlers/db_store_foundation5_widget/templates/db_store_foundation5_widget/view_saved_form_data_entries.html:50
+msgid "Filter"
+msgstr ""
+
+#: contrib/plugins/form_handlers/http_repost/fobi_form_handlers.py:40
+msgid "HTTP Repost"
+msgstr ""
+
+#: contrib/plugins/form_handlers/http_repost/forms.py:23
+#: contrib/plugins/form_handlers/http_repost/templates/http_repost/plugin_data_repr.html:2
+msgid "Endpoint URL"
+msgstr ""
+
+#: contrib/plugins/form_handlers/mail/fobi_form_handlers.py:28
+msgid "Mail"
+msgstr ""
+
+#: contrib/plugins/form_handlers/mail/forms.py:28
+msgid "From name"
+msgstr ""
+
+#: contrib/plugins/form_handlers/mail/forms.py:33
+msgid "From email"
+msgstr ""
+
+#: contrib/plugins/form_handlers/mail/forms.py:38
+msgid "To name"
+msgstr ""
+
+#: contrib/plugins/form_handlers/mail/forms.py:43
+msgid "To email"
+msgstr ""
+
+#: contrib/plugins/form_handlers/mail/forms.py:48
+#: contrib/plugins/form_handlers/mail/templates/mail/plugin_data_repr.html:3
+msgid "Subject"
+msgstr ""
+
+#: contrib/plugins/form_handlers/mail/forms.py:53
+msgid "Body"
+msgstr ""
+
+#: contrib/plugins/form_handlers/mail/templates/mail/plugin_data_repr.html:2
+msgid "To"
+msgstr ""
+
+#: contrib/plugins/form_importers/mailchimp_importer/fobi_form_importers.py:13
+msgid "MailChimp"
+msgstr ""
+
+#: contrib/themes/bootstrap3/fobi_themes.py:17
+msgid "Bootstrap 3"
+msgstr ""
+
+#: contrib/themes/bootstrap3/templates/bootstrap3/snippets/form_non_field_and_hidden_errors_snippet.html:5
+msgid "Error"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/fobi_themes.py:17
+msgid "DjangoCMS admin style"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/add_form_element_entry.html:10
+#: contrib/themes/simple/templates/simple/add_form_element_entry.html:10
+#: templates/fobi/generic/add_form_element_entry.html:5
+#: templates/fobi/generic/add_form_element_entry_ajax.html:6
+#, python-format
+msgid "Add \"%(plugin_name)s\" element to the form"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/add_form_handler_entry.html:10
+#: contrib/themes/simple/templates/simple/add_form_handler_entry.html:10
+#: templates/fobi/generic/add_form_handler_entry.html:5
+#: templates/fobi/generic/add_form_handler_entry_ajax.html:6
+#, python-format
+msgid "Add \"%(plugin_name)s\" handler to the form"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/base_edit.html:62
+#: contrib/themes/simple/templates/simple/base_edit.html:54
+msgid "Django administration"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/base_edit.html:66
+#: contrib/themes/simple/templates/simple/base_edit.html:58
+msgid "Welcome,"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/base_edit.html:71
+#: contrib/themes/simple/templates/simple/base_edit.html:63
+msgid "Documentation"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/base_edit.html:73
+#: contrib/themes/simple/templates/simple/base_edit.html:65
+#: templatetags/fobi_tags.py:157
+msgid "Log out"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/base_edit.html:82
+#: contrib/themes/foundation5/templates/foundation5/_base.html:97
+#: contrib/themes/simple/templates/simple/base_edit.html:74
+#: templates/fobi/admin/bulk_change_plugins.html:29
+msgid "Home"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/create_form_entry.html:5
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/dashboard.html:28
+#: contrib/themes/foundation5/templates/foundation5/dashboard.html:62
+#: contrib/themes/simple/templates/simple/create_form_entry.html:5
+#: contrib/themes/simple/templates/simple/dashboard.html:27
+#: templates/fobi/generic/create_form_entry_ajax.html:6
+#: templates/fobi/generic/dashboard.html:72
+msgid "Create form"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/dashboard.html:5
+#: contrib/themes/foundation5/templates/foundation5/dashboard.html:5
+#: contrib/themes/foundation5/templates/foundation5/dashboard.html:14
+#: contrib/themes/simple/templates/simple/dashboard.html:5
+#: templates/fobi/generic/dashboard.html:5
+#: templates/fobi/generic/dashboard.html:14
+msgid "Dashboard"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/dashboard.html:23
+#: contrib/themes/foundation5/templates/foundation5/dashboard.html:20
+#: contrib/themes/simple/templates/simple/dashboard.html:22
+#: templates/fobi/generic/dashboard.html:21
+msgid "Your forms"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/dashboard.html:62
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:105
+#: contrib/themes/foundation5/templates/foundation5/dashboard.html:32
+#: contrib/themes/foundation5/templates/foundation5/dashboard.html:59
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:97
+#: contrib/themes/simple/templates/simple/dashboard.html:61
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:104
+#: templates/fobi/generic/dashboard.html:33
+#: templates/fobi/generic/dashboard.html:68
+#: templates/fobi/generic/edit_form_entry_ajax.html:101
+msgid "Actions"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_element_entry.html:10
+#: contrib/themes/simple/templates/simple/edit_form_element_entry.html:10
+#, python-format
+msgid "Edit \"%(plugin_name)s\" form element"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:3
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:3
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:3
+#: templates/fobi/generic/edit_form_entry_ajax.html:3
+msgid "Edit form"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:8
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:12
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:7
+#: templates/fobi/generic/edit_form_entry_ajax.html:10
+msgid "Elements"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:9
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:13
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:8
+#: templates/fobi/generic/edit_form_entry_ajax.html:11
+msgid "Handlers"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:10
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:14
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:9
+#: templates/fobi/generic/edit_form_entry_ajax.html:12
+msgid "Properties"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:16
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:15
+msgid "Change form elements"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:24
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:23
+msgid "Add form element"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:52
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:61
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:51
+#: templates/fobi/generic/edit_form_entry_ajax.html:62
+msgid "Save ordering"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:67
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:66
+msgid "Change form handlers"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:75
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:74
+msgid "Add form handler"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:94
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:95
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:93
+#: templates/fobi/generic/edit_form_entry_ajax.html:99
+msgid "Handler"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:118
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:117
+#: templates/fobi/generic/edit_form_entry_ajax.html:112
+msgid "Info"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:151
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:150
+msgid "Change form properties"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_entry_ajax.html:163
+#: contrib/themes/simple/templates/simple/edit_form_entry_ajax.html:162
+msgid "Save"
+msgstr ""
+
+#: contrib/themes/djangocms_admin_style_theme/templates/djangocms_admin_style_theme/edit_form_handler_entry.html:10
+#: contrib/themes/simple/templates/simple/edit_form_handler_entry.html:10
+#, python-format
+msgid "Edit \"%(plugin_name)s\" form handler"
+msgstr ""
+
+#: contrib/themes/foundation5/fobi_themes.py:18
+msgid "Foundation 5"
+msgstr ""
+
+#: contrib/themes/foundation5/templates/foundation5/dashboard.html:30
+#: templates/fobi/generic/dashboard.html:31
+msgid "Is public"
+msgstr ""
+
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:24
+#: templates/fobi/generic/edit_form_entry_ajax.html:21
+msgid "Add elements to your form"
+msgstr ""
+
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:30
+#: templates/fobi/generic/edit_form_entry_ajax.html:29
+msgid "Choose form element to add"
+msgstr ""
+
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:75
+#: templates/fobi/generic/edit_form_entry_ajax.html:75
+msgid "Add handlers to your form"
+msgstr ""
+
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:81
+#: templates/fobi/generic/edit_form_entry_ajax.html:83
+msgid "Choose form handler to add"
+msgstr ""
+
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:149
+#: templates/fobi/generic/edit_form_entry_ajax.html:145
+msgid "Form properties"
+msgstr ""
+
+#: contrib/themes/foundation5/templates/foundation5/edit_form_entry_ajax.html:160
+#: templates/fobi/admin/bulk_change_plugins.html:76
+#: templates/fobi/generic/edit_form_entry_ajax.html:156
+msgid "Submit changes"
+msgstr ""
+
+#: contrib/themes/foundation5/templates/foundation5/snippets/form_properties_snippet.html:3
+#: contrib/themes/foundation5/templates/foundation5/snippets/form_snippet.html:3
+#: templates/fobi/generic/snippets/form_properties_snippet.html:4
+#: templates/fobi/generic/snippets/form_snippet.html:4
+msgid "Fields marked with <span class=\"required-field\">*</span> are required"
+msgstr ""
+
+#: contrib/themes/simple/fobi_themes.py:17
+msgid "Simple"
+msgstr ""
+
+#: templates/fobi/admin/bulk_change_plugins.html:5
+#: templates/fobi/admin/bulk_change_plugins.html:32
+#: templates/fobi/admin/bulk_change_plugins.html:37
+msgid "Edit multiple objects"
+msgstr ""
+
+#: templates/fobi/admin/bulk_change_plugins.html:5
+msgid "Django site admin"
+msgstr ""
+
+#: templates/fobi/generic/add_form_element_entry_ajax.html:11
+#: templates/fobi/generic/add_form_handler_entry_ajax.html:9
+#: templates/fobi/generic/create_form_entry_ajax.html:9
+msgid "Add"
+msgstr ""
+
+#: templates/fobi/generic/create_form_entry.html:5
+msgid "Create form entry"
+msgstr ""
+
+#: templates/fobi/generic/edit_form_element_entry.html:5
+#: templates/fobi/generic/edit_form_element_entry_ajax.html:6
+#, python-format
+msgid "Edit \"%(plugin_name)s\" element of the form"
+msgstr ""
+
+#: templates/fobi/generic/edit_form_element_entry_ajax.html:9
+#: templates/fobi/generic/edit_form_handler_entry_ajax.html:9
+#: templates/fobi/generic/view_form_entry_ajax.html:9
+msgid "Submit"
+msgstr ""
+
+#: templates/fobi/generic/edit_form_entry.html:5
+msgid "Edit form entry"
+msgstr ""
+
+#: templates/fobi/generic/edit_form_entry.html:9
+#: templates/fobi/generic/view_form_entry.html:9
+msgid "View"
+msgstr ""
+
+#: templates/fobi/generic/edit_form_handler_entry.html:5
+#: templates/fobi/generic/edit_form_handler_entry_ajax.html:6
+#, python-format
+msgid "Edit \"%(plugin_name)s\" handler of the form"
+msgstr ""
+
+#: templates/fobi/generic/form_entry_submitted.html:5
+msgid "Form submitted!"
+msgstr ""
+
+#: templates/fobi/generic/form_entry_submitted_ajax.html:4
+msgid "Thank you!"
+msgstr ""
+
+#: templates/fobi/generic/form_entry_submitted_ajax.html:15
+msgid "Form submitted successfully."
+msgstr ""
+
+#: templates/fobi/generic/view_form_entry.html:5
+#: templates/fobi/generic/view_form_entry_ajax.html:6
+msgid "View form"
+msgstr ""
+
+#: templates/fobi/generic/snippets/form_properties_snippet.html:33
+msgid "Help"
+msgstr ""
+
+#: templatetags/fobi_tags.py:166
+msgid "Log in"
+msgstr ""
+
+#: urls/edit.py:19
+msgid "^forms/create/$"
+msgstr ""
+
+#: urls/edit.py:24
+msgid "^forms/edit/(?P<form_entry_id>\\d+)/$"
+msgstr ""
+
+#: urls/edit.py:29
+msgid "^forms/delete/(?P<form_entry_id>\\d+)/$"
+msgstr ""
+
+#: urls/edit.py:34
+msgid ""
+"^forms/elements/add/(?P<form_entry_id>\\d+)/(?P<form_element_plugin_uid>[\\w_"
+"\\-]+)/$"
+msgstr ""
+
+#: urls/edit.py:39
+msgid "^forms/elements/edit/(?P<form_element_entry_id>\\d+)/$"
+msgstr ""
+
+#: urls/edit.py:44
+msgid "^forms/elements/delete/(?P<form_element_entry_id>\\d+)/$"
+msgstr ""
+
+#: urls/edit.py:49
+msgid ""
+"^forms/handlers/add/(?P<form_entry_id>\\d+)/(?P<form_handler_plugin_uid>[\\w_"
+"\\-]+)/$"
+msgstr ""
+
+#: urls/edit.py:54
+msgid "^forms/handlers/edit/(?P<form_handler_entry_id>\\d+)/$"
+msgstr ""
+
+#: urls/edit.py:59
+msgid "^forms/handlers/delete/(?P<form_handler_entry_id>\\d+)/$"
+msgstr ""
+
+#: urls/edit.py:64
+msgid "^$"
+msgstr ""
+
+#: urls/view.py:16
+msgid "^view/submitted/$"
+msgstr ""
+
+#: urls/view.py:21
+msgid "^view/(?P<form_entry_slug>[\\w_\\-]+)/$"
+msgstr ""
+
+#: urls/view.py:26
+msgid "^view/(?P<form_entry_slug>[\\w_\\-]+)/submitted/$"
+msgstr ""

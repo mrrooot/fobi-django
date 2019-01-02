@@ -1,0 +1,2 @@
+Mezzanine==4.2.3
+https://github.com/stephenmcd/filebrowser-safe/archive/v0.4.6.zip

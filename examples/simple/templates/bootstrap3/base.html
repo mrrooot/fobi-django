@@ -1,0 +1,6 @@
+{% extends "bootstrap3/_base.html" %}
+
+{% block theme-javascripts %}
+    {{ block.super }}
+    {% if not testing %}{% include "google_analytics.html" %}{% endif %}
+{% endblock theme-javascripts %}
